@@ -1,0 +1,13 @@
+5
+--Start of Node Vicinity--
+n0-n1,n2,n3
+n1-n2,n4
+n2-n4
+n4-n3
+n3-n2
+--Start of Node Info--
+n0#dc01.utdallas.edu@6740
+n1#dc02.utdallas.edu@6741
+n2#dc03.utdallas.edu@6742
+n3#dc03.utdallas.edu@6743
+n4#dc01.utdallas.edu@6744
